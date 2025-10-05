@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
+<h1 align="center">Hi 👋, I'm Waheedullah Azizi</h1>
 <h3 align="center">Full-Stack Developer | MIS Specialist @ Ministry of Economy</h3>
 
 <p align="center">
@@ -83,16 +83,16 @@
 ## 🔗 Connect with Me
 
 - 🌐 [GitHub](https://github.com/abdulwaheedd)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) <!-- Replace with your LinkedIn -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/waheedullahazizi) <!-- Replace with your LinkedIn -->
 - 🌍 [Portfolio](https://your-portfolio.com) <!-- Replace with your portfolio URL -->
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com) <!-- Replace with your email -->
+<!-- - 📫 Email: [your-email@example.com](mailto:your-email@example.com)  Replace with your email -->
 
 ---
 
 ## 🎯 Goals for 2025
 
-- 🚀 Master cloud-native development and Kubernetes
-- 🤝 Contribute to open-source MIS or dev tools
+- 🚀 Master cloud-native development and microservices
+- 🤝 Contribute to open-source projects or dev tools
 - 🎓 Share knowledge through blogs or tutorials
 - 🧠 Mentor aspiring developers and students
 
