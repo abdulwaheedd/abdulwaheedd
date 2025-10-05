@@ -50,7 +50,7 @@ IDEs: `VS Code`, `Eclipse`, `IntelliJ`, `NetBeans`
 ## 🔗 Let's Connect
 
 - 🌐 [GitHub](https://github.com/abdulwaheedd)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/) <!-- Replace with your actual LinkedIn -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/waheedullahazizi/) <!-- Replace with your actual LinkedIn -->
 - 🌍 [Portfolio](https://your-portfolio.com) <!-- Replace with your portfolio link -->
 - ✉️ Reach me: [your-email@example.com](mailto:your-email@example.com)
 
