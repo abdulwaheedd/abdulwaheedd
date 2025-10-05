@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Waheedullah Azizi</h1>
+<h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
 <h3 align="center">Full-Stack Developer | MIS Specialist @ Ministry of Economy</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulwaheedd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
 ## 💫 About Me
-- 🔭 I’m currently working as a **Management Information Systems (MIS) Specialist**
-- 🌱 Constantly learning new technologies and building scalable systems
-- 💡 Passionate about clean code, automation, and solving real-world problems with technology
-- 💬 Ask me about anything Full-Stack, APIs, or MIS Systems
-- ⚡ Fun fact: I drink more Water than my code has bugs ☕🐛
+
+- 🔭 Currently working as an **MIS Specialist** at the **Ministry of Economy**
+- 👨‍💻 Experienced Full-Stack Developer with a focus on scalable and efficient systems
+- 🌱 Always learning: Exploring microservices, cloud-native development & design patterns
+- 💬 Ask me about MIS Systems, APIs, architecture, or full-stack development
+- ⚡ Fun fact: I debug faster after coffee ☕💡
 
 ---
 
@@ -21,15 +26,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
-
 ### 🌐 Client Side  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
 
 ### ⚙️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,8 +46,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
-
 ### 🗃️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -54,8 +53,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
 
 ### 🔧 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,42 +62,42 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
 ### 🧠 IDEs  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwaheedd&show_icons=true&theme=radical" alt="Abdul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwaheedd&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheedd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect with Me
 
 - 🌐 [GitHub](https://github.com/abdulwaheedd)
-- 💼 [LinkedIn](https://www.linkedin.com/in/waheedullahazizi/) <!-- Replace with your actual LinkedIn -->
-- 🌍 [Portfolio](https://your-portfolio.com) <!-- Replace with your portfolio link -->
-<!-- - ✉️ Reach me: [your-email@example.com](mailto:your-email@example.com) -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME) <!-- Replace with your LinkedIn -->
+- 🌍 [Portfolio](https://your-portfolio.com) <!-- Replace with your portfolio URL -->
+- 📫 Email: [your-email@example.com](mailto:your-email@example.com) <!-- Replace with your email -->
 
 ---
 
 ## 🎯 Goals for 2025
 
-- ✅ Master cloud-native development and microservices
-- ✅ Contribute to open-source projects
-- ✅ Launch a personal tech blog or YouTube channel
-- ✅ Mentor junior developers and share knowledge
+- 🚀 Master cloud-native development and Kubernetes
+- 🤝 Contribute to open-source MIS or dev tools
+- 🎓 Share knowledge through blogs or tutorials
+- 🧠 Mentor aspiring developers and students
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulwaheedd&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwaheedd" />
-</p>
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
+
+---
