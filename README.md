@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Waheed</h1>
+<h1 align="center">Hi 👋, I'm Waheedullah Azizi</h1>
 <h3 align="center">Full-Stack Developer | MIS Specialist @ Ministry of Economy</h3>
 
 ---
