@@ -8,7 +8,7 @@
 - 🌱 Constantly learning new technologies and building scalable systems
 - 💡 Passionate about clean code, automation, and solving real-world problems with technology
 - 💬 Ask me about anything Full-Stack, APIs, or MIS Systems
-- ⚡ Fun fact: I drink more coffee than my code has bugs ☕🐛
+- ⚡ Fun fact: I drink more Water than my code has bugs ☕🐛
 
 ---
 
